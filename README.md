@@ -16,6 +16,14 @@ Data Visualization: Power BI
 
 Data Analysis & Reporting: Microsoft Excel
 
+💡 Soft Skills
+
+Adaptibility
+
+Effective Communication
+
+Teamwork
+
 🔧 Projects
 
 Here are a few projects I've worked on that showcase my skills:
@@ -39,5 +47,7 @@ Repository Link: https://github.com/suhaneec/Recycle-Rangers_029
 Linkedin: www.linkedin.com/in/sougata-chondar-0067241bb
 
 Email: souindia1@gmail.com
+
+Contact: +91-6294814656
 
 Thanks for stopping by! Feel free to explore my repositories and connect with me. Let's build something amazing together! 🚀
