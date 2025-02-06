@@ -28,7 +28,9 @@ Teamwork
 
 Here are a few projects I've worked on that showcase my skills:
 
-NBA Player Data Analysis Dashboard Description: Developed an interactive dashboard using Power BI, Python, and SQLAlchemy for NBA player data analysis.
+NBA Player Data Analysis Dashboard 
+
+Description: Developed an interactive dashboard using Power BI, Python, and SQLAlchemy for NBA player data analysis.
 
 Skills Used: Power BI, Python and Exploratory Data Analysis (EDA), SQL.
 
