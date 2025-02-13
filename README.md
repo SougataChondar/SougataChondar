@@ -46,11 +46,11 @@ Repository Link: https://github.com/suhaneec/Recycle-Rangers_029
 
 Customer Churn Prediction Analysis Dashboard
 
-Description: 
+Description: In my project, "Customer Churn Prediction Analysis Dashboard," I leverage the power of machine learning with Python to predict potential churn, enabling proactive strategies for customer retention. The predictive model, built using Random Forest algorithm, identifies key factors that contribute to customer attrition.
 
 Skills Used: Power BI, Python, Pandas, Matplotlib, Seaborn, Machine Learning, Random Forest Regression
 
-Repository Link: 
+Repository Link: https://github.com/B42-DA-026-Info-Architects/B42_DA_026_Info_Architects
 
 🔗 Connect With Me
 
