@@ -44,6 +44,14 @@ Skills: Python, Python and Exploratory Data Analysis (EDA), Streamlit.
 
 Repository Link: https://github.com/suhaneec/Recycle-Rangers_029
 
+Customer Churn Prediction Analysis Dashboard
+
+Description: 
+
+Skills Used: Power BI, Python, Pandas, Matplotlib, Seaborn, Machine Learning, Random Forest Regression
+
+Repository Link: 
+
 🔗 Connect With Me
 
 Linkedin: www.linkedin.com/in/sougata-chondar-0067241bb
