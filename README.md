@@ -52,6 +52,14 @@ Skills Used: Power BI, Python, Pandas, Matplotlib, Seaborn, Machine Learning, Ra
 
 Repository Link: https://github.com/B42-DA-026-Info-Architects/B42_DA_026_Info_Architects
 
+Lung Cancer Prediction Dashboard
+
+Description: The Lung Cancer Prediction Dashboard is an impactful healthcare analytics tool designed to aid early detection and risk assessment. By leveraging machine learning with a Random Forest Classifier, it provides accurate predictions based on patient data, while the interactive Streamlit dashboard enhances usability with real-time visual insights.
+
+Skills Used: Python and Exploratory Data Analysis, Pandas, Matplotlib, Seaborn, NumPy, Machine Learning, Random Forest Classifier, Streamlit
+
+Repository Link: https://github.com/SougataChondar/B43_DA_70_Healthcare-Data-Analysts
+
 🔗 Connect With Me
 
 Linkedin: www.linkedin.com/in/sougata-chondar-0067241bb
