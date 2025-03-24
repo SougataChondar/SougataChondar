@@ -28,7 +28,7 @@ Teamwork
 
 Here are a few projects I've worked on that showcase my skills:
 
-NBA Player Data Analysis Dashboard 
+💡NBA Player Data Analysis Dashboard 
 
 Description: Developed an interactive dashboard using Power BI, Python, and SQLAlchemy for NBA player data analysis.
 
@@ -36,7 +36,7 @@ Skills Used: Power BI, Python and Exploratory Data Analysis (EDA), SQL.
 
 Repository Link: https://github.com/datta-boop/nba_players_analysis
 
-Caste-Based-Crime-Analysis-Dashboard
+💡Caste-Based-Crime-Analysis-Dashboard
 
 Description: Developed a Streamlit-based dashboard to visualize data trends and patterns, facilitating easy understanding for stakeholders.
 
@@ -44,7 +44,7 @@ Skills: Python, Python and Exploratory Data Analysis (EDA), Streamlit.
 
 Repository Link: https://github.com/suhaneec/Recycle-Rangers_029
 
-Customer Churn Prediction Analysis Dashboard
+💡Customer Churn Prediction Analysis Dashboard
 
 Description: In my project, "Customer Churn Prediction Analysis Dashboard," I leverage the power of machine learning with Python to predict potential churn, enabling proactive strategies for customer retention. The predictive model, built using Random Forest algorithm, identifies key factors that contribute to customer attrition.
 
@@ -52,7 +52,7 @@ Skills Used: Power BI, Python, Pandas, Matplotlib, Seaborn, Machine Learning, Ra
 
 Repository Link: https://github.com/B42-DA-026-Info-Architects/B42_DA_026_Info_Architects
 
-Lung Cancer Prediction Dashboard
+💡Lung Cancer Prediction Dashboard
 
 Description: The Lung Cancer Prediction Dashboard is an impactful healthcare analytics tool designed to aid early detection and risk assessment. By leveraging machine learning with a Random Forest Classifier, it provides accurate predictions based on patient data, while the interactive Streamlit dashboard enhances usability with real-time visual insights.
 
