@@ -74,6 +74,8 @@ Linkedin: www.linkedin.com/in/sougata-chondar-0067241bb
 
 Email: souindia1@gmail.com
 
+Naukri: https://www.naukri.com/mnjuser/profile
+
 Contact: +91-6294814656
 
 Thanks for stopping by! Feel free to explore my repositories and connect with me. Let's build something amazing together! 🚀
