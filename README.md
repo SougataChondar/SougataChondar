@@ -60,6 +60,14 @@ Skills Used: Python and Exploratory Data Analysis, Pandas, Matplotlib, Seaborn, 
 
 Repository Link: https://github.com/SougataChondar/B43_DA_70_Healthcare-Data-Analysts
 
+💡Pizza Sales Analysis Dashboard
+
+Description: This project is an end-to-end Pizza Sales Analysis Dashboard built from scratch using SQL for data extraction and transformation and Advanced Excel for analysis and visualization. The goal of the project is to analyze sales performance, customer ordering behavior, and product trends to help stakeholders make data-driven business decisions.
+
+Skills Used: MSME(MySQl Server Management Studio), Excel.
+
+Repository Link: https://github.com/SougataChondar/Pizza-Sales-Data-Analysis-Dashboard/tree/main
+
 🔗 Connect With Me
 
 Linkedin: www.linkedin.com/in/sougata-chondar-0067241bb
