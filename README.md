@@ -1,4 +1,4 @@
-Hi there! 👋
+# Hi there! 👋
 
 Welcome to my GitHub profile! I'm passionate about data analytics, problem-solving, and creating efficient solutions using modern tools and technologies.
 
