@@ -75,6 +75,7 @@ Repository Link: https://github.com/SougataChondar/Pizza-Sales-Data-Analysis-Das
 Description: This project is a interactive dashboard built entirely using Power BI Desktop, focused on delivering comprehensive insights into India Election 2024. The primary objective of this project is to provide stakeholders, analysts, and general viewers with a clear, data-driven understanding of election results, voting patterns, and key performance indicators across regions.
 
 Skills Used : Power BI Desktop, Advanced DAX Function, Data Modeling, Advanced Visualisation.
+
 Repository Link : https://github.com/SougataChondar/India-Election-Result-Analysis-Dashboard
 
 ## 💡Car Sales Analysis Dashboard
@@ -84,6 +85,7 @@ Description : This is an individual end-to-end Business Intelligence project dev
 The dashboard provides a complete overview of sales performance, revenue trends, customer insights, and product analysis in an interactive and user-friendly format.
 
 Skills Used : Power Bi Desktop, Advanced DAX Function, Data Modeling, Advanced Visualisation.
+
 Repository Link : https://github.com/SougataChondar/Car-Sales-Dashboard
 
 ## 💡 Bank Loan Analysis
@@ -91,6 +93,7 @@ Repository Link : https://github.com/SougataChondar/Car-Sales-Dashboard
 Description : This project focuses on analyzing bank loan data using Python for data analysis and visualization. The objective is to extract meaningful insights from loan data to understand loan performance, customer behavior, and financial trends. Through this project, various metrics such as total loan applications, funded amount, loan repayment trends, and loan risk categories were analyzed to help stakeholders better understand loan distribution and performance.
 
 Skills Used: Python, Pandas, Matpltlib, Seaborn, Plotly Express, NumPy, Jupyter Notebook.
+
 Repository Link : https://github.com/SougataChondar/Bank-Loan-Analysis
 
 ---
