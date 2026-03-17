@@ -86,6 +86,13 @@ The dashboard provides a complete overview of sales performance, revenue trends,
 Skills Used : Power Bi Desktop, Advanced DAX Function, Data Modeling, Advanced Visualisation.
 Repository Link : https://github.com/SougataChondar/Car-Sales-Dashboard
 
+## 💡 Bank Loan Analysis
+
+Description : This project focuses on analyzing bank loan data using Python for data analysis and visualization. The objective is to extract meaningful insights from loan data to understand loan performance, customer behavior, and financial trends. Through this project, various metrics such as total loan applications, funded amount, loan repayment trends, and loan risk categories were analyzed to help stakeholders better understand loan distribution and performance.
+
+Skills Used: Python, Pandas, Matpltlib, Seaborn, Plotly Express, NumPy, Jupyter Notebook.
+Repository Link : https://github.com/SougataChondar/Bank-Loan-Analysis
+
 ---
 
 # 🔗 Connect With Me
