@@ -104,7 +104,7 @@ This dashboard enables stakeholders to gain actionable insights into key metrics
 
 Skills Used : Power BI, DAX(Data Analysis Expressions), Data Modeling
 
-Repository Link : https://github.com/SougataChondar/Sales-Overview-Analysis
+Repository Link : https://github.com/SougataChondar/Sales-Overview-Analysis-
 
 ---
 
