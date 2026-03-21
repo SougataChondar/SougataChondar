@@ -96,6 +96,16 @@ Skills Used: Python, Pandas, Matpltlib, Seaborn, Plotly Express, NumPy, Jupyter 
 
 Repository Link : https://github.com/SougataChondar/Bank-Loan-Analysis
 
+## 💡 Sales Overview Analysis
+
+Description : The Sales Overview Analysis Dashboard is an interactive business intelligence solution developed using Power BI to monitor and evaluate organizational sales performance.
+
+This dashboard enables stakeholders to gain actionable insights into key metrics such as Sales, Profit, and Quantity, while identifying trends, regional performance variations, and product-level contributions. The solution emphasizes clarity, interactivity, and data-driven decision-making.
+
+Skills Used : Power BI, DAX(Data Analysis Expressions), Data Modeling
+
+Repository Link : https://github.com/SougataChondar/Sales-Overview-Analysis
+
 ---
 
 # 🔗 Connect With Me
