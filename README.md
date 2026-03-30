@@ -106,6 +106,16 @@ Skills Used : Power BI, DAX(Data Analysis Expressions), Data Modeling
 
 Repository Link : https://github.com/SougataChondar/Sales-Overview-Analysis-
 
+## 💡 Logistics Dashboard
+
+Description : This project is an interactive Logistics Dashboard developed using Power BI Desktop, designed to provide actionable insights into logistics operations including orders, deliveries, drivers, hubs, and vehicles.
+
+The dashboard focuses on enabling stakeholders to monitor performance, identify inefficiencies, and make data-driven decisions in real-time.
+
+Skills Used : Power Bi Desktop, DAX(Data Analysis Expressions), Data Modelling, Power Query(ETL), Data Visualization Techniques.
+
+Repository Link : https://github.com/SougataChondar/Logistics-Dashboard
+
 ---
 
 # 🔗 Connect With Me
