@@ -116,6 +116,16 @@ Skills Used : Power Bi Desktop, DAX(Data Analysis Expressions), Data Modelling, 
 
 Repository Link : https://github.com/SougataChondar/Logistics-Dashboard
 
+## 💡 Swiggy Analysis
+
+Description : This project focuses on analyzing Swiggy food delivery data using Microsoft Excel to uncover key business insights. It involves end-to-end data analysis including data cleaning, transformation, visualization, and interpretation.
+
+The analysis helps in understanding customer ordering behavior, identifying popular food categories, evaluating restaurant performance, and recognizing trends that can support strategic decision-making. The dashboard is designed to present insights in a clear and interactive format suitable for stakeholders.
+
+Skills Used : Microsoft Excel, Data Cleaning & Preprocessing, Pivot Tables & Charts, Data Visualization, Basic Statistical Analysis.
+
+Repository Link : https://github.com/SougataChondar/Swiggy-Analysis/tree/main
+
 ---
 
 # 🔗 Connect With Me
