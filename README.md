@@ -126,6 +126,16 @@ Skills Used : Microsoft Excel, Data Cleaning & Preprocessing, Pivot Tables & Cha
 
 Repository Link : https://github.com/SougataChondar/Swiggy-Analysis/tree/main
 
+## 💡 IPL Analysis Dashboard (2008-2025)
+
+Description : The IPL Analysis Dashboard is a comprehensive data analytics project focused on exploring and visualizing key insights from the Indian Premier League (IPL) dataset. This project was developed to analyze team performances, player statistics, match trends, venue-wise outcomes, and seasonal patterns using interactive business intelligence tools.
+
+The goal of this project is to transform raw IPL data into meaningful, actionable insights through engaging dashboards and visual storytelling.
+
+Skills Used : Power Bi Desktop, Power Query, DAX(Data Analysis Espressions), Microsoft Excel, Data Cleaning & Preprocessing, Data Visualization, Data Modeliing.
+
+Repository Link : https://github.com/SougataChondar/IPL-Analysis-Dashboard-2008-2025-
+
 ---
 
 # 🔗 Connect With Me
