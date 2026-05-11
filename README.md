@@ -136,6 +136,24 @@ Skills Used : Power Bi Desktop, Power Query, DAX(Data Analysis Espressions), Mic
 
 Repository Link : https://github.com/SougataChondar/IPL-Analysis-Dashboard-2008-2025-
 
+## 💡 Swiggy Sales Case Study
+
+Description : This project is a complete Swiggy Sales Case Study built using SQL Server for data cleaning, data modeling, transformation, and business analysis.
+
+The goal of this project is to analyze Swiggy food delivery data to extract meaningful business insights related to:
+
+Sales performance,
+Customer ratings,
+Restaurant trends,
+Food category analysis,
+Revenue insights,
+Location-based performance.
+
+Skills Used : SSMS (SQL Server Management Studio), Database Management, Data Cleaning & Analysis, Query Execution.
+
+Repository Link : https://github.com/SougataChondar/Swiggy-Report
+
+
 ---
 
 # 🔗 Connect With Me
